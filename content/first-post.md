@@ -5,4 +5,4 @@ Tags: first, introduction
 Author: Akshay Lal
 Summary: This is a summary of my first post.
 
-This is my first blog post.
+This is my first blog post. I am writing this blog using pelican.

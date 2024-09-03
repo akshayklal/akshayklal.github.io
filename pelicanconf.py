@@ -3,6 +3,7 @@ SITENAME = "Akshay's Blog"
 SITEURL = ""
 
 PATH = "content"
+STATIC_PATHS = ['images']
 OUTPUT_PATH = "docs/"
 TIMEZONE = 'America/Los_Angeles'
 
@@ -17,10 +18,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("Home", "/"),
+    ("About", "/about-me.html")
 )
 
 # Social widget

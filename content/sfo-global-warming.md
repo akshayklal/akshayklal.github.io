@@ -8,7 +8,7 @@ This graph shows the increase of the average min and max
 temperatures at San Francisco Airport since 1946. Average
 min and max temperatures have increased by around 3 °F
 over last 70 years. This data clearly shows that global
-warming is present in the San Francisco Bay Area.
+warming trends are present in the San Francisco Bay Area.
 
 ![Average Annual Max and Min Temperatures at San Francisco International Airport (SFO) from 1946 to 2024](/images/sfo-global-warming.png)
 
@@ -16,7 +16,9 @@ It is interesting to see that the average annual minimum temperature
 has been consistently over 50 °F for the last ten years, however from
 1946 to 1956 the average annual minimum temperature never went above
 50 °F. The average annual minimum temperature has been increasing
-by 0.06 °F per year (the slope of the trend line in the graph).
+by 0.06 °F per year (the slope of the trend line in the graph). If
+this trend continues, then in 100 years, the average annual minimum
+temperature would increase by 6 °F. 
 
 In order to generate this graph, I first downloaded temperature
 data from the National Oceanic and Atmospheric Administration

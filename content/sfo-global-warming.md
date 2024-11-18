@@ -1,4 +1,4 @@
-Title: San Francisco Airport (SFO) Global Warming Trends
+Title: San Francisco Bay Area Global Warming Trends
 Date: 2024-09-02 19:30
 Category: Blog
 Tags: San Francisco, Global Warming
